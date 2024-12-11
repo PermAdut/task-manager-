@@ -1,2 +1,2 @@
-# task-manager-
-simple task manager using qt and winapi
+# task-manager
+simple task manager for ubutu using QTv5
